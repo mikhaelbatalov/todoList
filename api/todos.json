@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "description": "Починить замок",
+        "performerId": 3,
+        "priority": 1
+    },
+    {
+        "id": 2,
+        "description": "Забрать посылку",
+        "performerId": 1,
+        "priority": 2
+    },
+    {
+        "id": 3,
+        "description": "Заменить лампу",
+        "performerId": 4,
+        "priority": 3
+    },
+    {
+        "id": 4,
+        "description": "Починить карниз",
+        "performerId": 5,
+        "priority": 4
+    },
+    {
+        "id": 5,
+        "description": "Поменять колёса",
+        "performerId": 2,
+        "priority": 5
+    }
+]
