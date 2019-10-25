@@ -1,3 +1,5 @@
+`git clone --recursive https://github.com/mikhaelbatalov/todoList`
+
 # React/Redux/JSS todoList application with Express
 
 ## Available Scripts
